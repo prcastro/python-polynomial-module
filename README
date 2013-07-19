@@ -1,0 +1,5 @@
+This is a simple module for Python that allows the use of polynomial (or simply Pol) objects. They behave as expected (simple operations and simple calculations) and is suited for use in Python's interactive mode.
+
+Developed using Python 3.3.2.
+
+
