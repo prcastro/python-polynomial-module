@@ -6,7 +6,7 @@ This is a simple module for Python that allows the use of polynomial (or simply 
 Usage
 -----
 
-With a Python interpreter opened in the module's directory:
+With a Python 3.3.2 interpreter opened in the module's directory:
     
     >>> from pol-module import *
     # Import everything that is in the module
